@@ -1,7 +1,7 @@
 <div align="center">
 <h2><font color="red"> 🕺🕺🕺 ICT3104 Team 11 2023 💃💃💃 </font></center> <br> <center>MMPose x FollowYourPose Generation</h2>
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://](https://colab.research.google.com/drive/1kW5f73y_Xm5aXnHE0Yj0ZUwY4JEFcPBF)) 
 </div>
 
 ## Setup Environment
