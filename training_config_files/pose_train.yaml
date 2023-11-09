@@ -1,4 +1,4 @@
-pretrained_model_path: "../ict3104-team12-2023/data/models/trained_model/stable-diffusion-v1-4"
+pretrained_model_path: "/content/FollowYourPose/checkpoints/stable-diffusion-v1-4"
 output_dir: "output"
 
 train_data:
