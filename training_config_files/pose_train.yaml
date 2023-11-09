@@ -37,7 +37,7 @@ trainable_modules:
   - "attn2.to_q"
   - "attn_temp"
   - "conv_temporal"
-skeleton_path: './pose_example/vis_kun_pose2.mov'
+skeleton_path: '/content/FollowYourPose/pose_example/vis_kun_pose2.mov'
 
 
 seed: 33
