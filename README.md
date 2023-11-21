@@ -2,7 +2,7 @@
   <h2 style="color: red;">🕺🕺🕺 ICT3104 Team 11 2023 💃💃💃</h2>
   <p>MMPose x FollowYourPose Generation</p>
 
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Br9OfGAnwjp0C2gT2pHoJ5om810TNjx_#scrollTo=CUHipKrzlimZ)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a7NtyLsRb60OmFKU-k1pk2yam739dYIz?usp=sharing)
 </div>
 
 ## Setup Environment
